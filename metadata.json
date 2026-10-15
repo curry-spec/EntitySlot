@@ -1,0 +1,10 @@
+{
+  "name": "实体槽位",
+  "description": "新增日志监控、会话评估统计",
+  "requestFramePermissions": [],
+  "C7": [],
+  "aq": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
